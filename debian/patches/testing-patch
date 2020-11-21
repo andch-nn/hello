@@ -1,0 +1,8 @@
+Index: hello-2.10/testing.sh
+===================================================================
+--- /dev/null
++++ hello-2.10/testing.sh
+@@ -0,0 +1,3 @@
++#!/bin/bash
++
++echo "this is a test from Andy Chi"
